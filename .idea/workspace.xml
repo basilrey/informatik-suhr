@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0cd501d-7cbd-4886-9602-5bc57e5ea691" name="Default Changelist" comment="" />
+    <list default="true" id="22ccb409-7cd8-4b18-881f-0f49fe3b64b6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Basil/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basil/Html1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Basil/Html1.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,24 +14,21 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1WWmuFvAmF2GYGYNLl4QCLel8tY" />
+  <component name="ProjectId" id="1WWqNc6aoUSRHeoB4YSmpHoZPGj" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
-    <option name="showLibraryContents" value="true" />
+    <option name="foldersAlwaysOnTop" value="false" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -46,12 +47,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f0cd501d-7cbd-4886-9602-5bc57e5ea691" name="Default Changelist" comment="" />
-      <created>1579273946072</created>
+      <changelist id="22ccb409-7cd8-4b18-881f-0f49fe3b64b6" name="Default Changelist" comment="" />
+      <created>1579275660945</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1579273946072</updated>
-      <workItem from="1579273947526" duration="197000" />
+      <updated>1579275660945</updated>
+      <workItem from="1579275664048" duration="455000" />
     </task>
     <servers />
   </component>
